@@ -1,5 +1,5 @@
 [package]
-name = "find_files_by_name"
+name = "find_files"
 version = "0.1.0"
 authors = ["Jona <saikyun@gmail.com>"]
 
