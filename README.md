@@ -4,7 +4,7 @@ Very simple file finder using glob.
 ## install
 1. clone the project
 2. `cargo build --release`
-3. copy the target/release/find_files_by_name binary to wherever you want it
+3. copy the target/release/find_files binary to wherever you want it
 4. use it
 
 ## usage
